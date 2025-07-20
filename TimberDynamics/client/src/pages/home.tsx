@@ -87,15 +87,6 @@ export default function Home() {
                 <div className="flex items-center">
                   <i className="fas fa-map-marker-alt wood-brown mr-4"></i>
                   <span>Dindigul, Tamil Nadu, India</span>
-                  <iframe 
-  src="https://www.google.com/maps/place/Sri+Lakshmi+traders/@10.3506499,77.9718871,746m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3b00abf25b87a6ed:0x60f9fdd542e77923!8m2!3d10.3506499!4d77.9718871!16s%2Fg%2F11yft2wq4_?hl=en-GB&entry=ttu&g_ep=EgoyMDI1MDcxNi4wIKXMDSoASAFQAw%3D%3D" 
-  width="600" 
-  height="450" 
-  style="border:0;" 
-  allowfullscreen="" 
-  loading="lazy">
-</iframe>
-  
                 </div>
                 <div className="flex items-center">
                   <i className="fas fa-phone wood-brown mr-4"></i>
